@@ -5,13 +5,12 @@ function engines () {
   return {
     g: ['https://google.com/search?q=', 'Google'],
     y: ['https://youtube.com/results?search_query=', 'Youtube'],
+    i: ['https://www.google.com/search?tbm=isch&q=', 'Google Images'],
     j: ['http://jisho.org/search/', 'Jisho'],
     k: ['https://kotobank.jp/gs/?q=', 'Kotobank'],
     n: ['https://nyaa.si/?f=0&c=0_0&q=', 'Nyaa'],
-    i: ['https://www.google.com/search?tbm=isch&q=', 'Google Images'],
-    b: ['https://gelbooru.com/index.php?page=post&s=list&tags=', 'Gelbooru'],
-    p: ['http://www.pixiv.net/search.php?s_mode=s_tag&word=', 'Pixiv'],
     s: ['https://sukebei.nyaa.si/?f=0&c=0_0&q=', 'Sukebei.Nyaa'],
+    a: ['https://www.anime-planet.com/anime/all?name=', 'Anime-Planet'],
     v: ['https://vndb.org/v/all?sq=', 'VNDB'],
     w: ['https://en.wikipedia.org/w/index.php?search=', 'Wikipedia']
   };
