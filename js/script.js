@@ -10,6 +10,7 @@ function engines () {
     k: ['https://kotobank.jp/gs/?q=', 'Kotobank'],
     n: ['https://nyaa.si/?f=0&c=0_0&q=', 'Nyaa'],
     s: ['https://sukebei.nyaa.si/?f=0&c=0_0&q=', 'Sukebei.Nyaa'],
+    r: ['https://runescape.wiki/?search=', 'RuneScape Wiki'],
     a: ['https://www.anime-planet.com/anime/all?name=', 'Anime-Planet'],
     v: ['https://vndb.org/v/all?sq=', 'VNDB'],
     w: ['https://en.wikipedia.org/w/index.php?search=', 'Wikipedia']
